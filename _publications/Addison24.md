@@ -3,7 +3,7 @@ title: "Magnetic signatures of the interaction between Europa and Jupiter’s ma
 collection: publications
 permalink: /publication/Addison24
 #excerpt: ''
-date: 2024-12-18
+date: 2024-01-26
 venue: 'Geophysical Research Letters'
 paperurl: 'http://lukeliuzzo.github.io/files/Addison_etal_2024.pdf'
 ---
