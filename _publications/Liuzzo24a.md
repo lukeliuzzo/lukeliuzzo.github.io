@@ -1,7 +1,7 @@
 ---
 title: "Constraining the influence of Callisto's perturbed electromagnetic environment on energetic particle observations"
 collection: publications
-permalink: /publication/Liuzzo24
+permalink: /publication/Liuzzo24a
 #excerpt: ''
 date: 2024-02-08
 venue: 'Journal of Geophysical Research (Space Physics)'
