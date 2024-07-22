@@ -1,7 +1,7 @@
 ---
 title: "Magnetic signatures of the interaction between Europa and Jupiter’s magnetosphere during the Juno flyby"
 collection: publications
-permalink: /files/Addison_etal_2024.pdf
+permalink: /publication/Addison_etal_2024.pdf
 date: 2024-01-26
 venue: 'Geophysical Research Letters'
 link: 'http://lukeliuzzo.github.io/files/Addison_etal_2024.pdf'
