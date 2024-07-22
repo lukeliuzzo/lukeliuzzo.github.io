@@ -11,7 +11,7 @@ redirect_from:
 
 Hi there, welcome to my website!
 
-I am an Assistant Research Scientist at the [Space Sciences Laboratory](https://www.ssl.berkeley.edu/science/directory-of-researchers/name/lucas-liuzzo/), located at the [University of California, Berkeley](https://www.berkeley.edu).
+I am an Assistant Research Scientist at the [Space Sciences Laboratory](https://www.ssl.berkeley.edu/full-directory/name/lucas-liuzzo/), located at the [University of California, Berkeley](https://www.berkeley.edu).
 
 <-- That's my dog Laika.
 
