@@ -1,9 +1,9 @@
 ---
-title: "Magnetic signatures of the interaction between Europa and Jupiter’s magnetosphere during the Juno flyby"
+title: "Science return of probing magnetospheric systems of ice giants"
 collection: publications
 permalink: /publication/Cao24
 date: 2024-01-22
-venue: 'Frontiers in Astronomy and Space Science, Space Physics'
+venue: 'Frontiers in Astronomy and Space Science (Space Physics)'
 link: 'http://lukeliuzzo.github.io/files/Cao_etal_2024.pdf'
 xurl: 'http://doi.org/10.3389/fspas.2024.120370'
 ---
