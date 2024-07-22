@@ -3,7 +3,7 @@ title: "Surface-plasma interactions at Europa in draped magnetospheric fields: T
 collection: publications
 permalink: /files/Addison_etal_2023.pdf
 date: 2023-08-16
-venue: 'Journal of Geophysical Research: Space Physics'
+venue: 'Journal of Geophysical Research (Space Physics)'
 link: 'http://lukeliuzzo.github.io/files/Addison_etal_2023.pdf'
 xurl: 'http://doi.org/10.1029/2023JA031734'
 ---
