@@ -3,7 +3,7 @@ title: "A three-dimensional model of Pluto’s interaction with the solar wind d
 collection: publications
 permalink: /publication/Feyerabend17
 date: 2017-10-21
-venue: 'Journal of Geophysical Research, Space Physics'
+venue: 'Journal of Geophysical Research (Space Physics)'
 link: 'http://lukeliuzzo.github.io/files/Feyerabend_etal_2017.pdf'
 xurl: 'http://doi.org/10.1002/2017JA024456'
 shortauthor: 'Feyerabend et al.'
