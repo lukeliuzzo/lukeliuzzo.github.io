@@ -1,7 +1,7 @@
 ---
 title: "Influence of Europa’s time‐varying electromagnetic environment on magnetospheric ion precipitation and surface weathering"
 collection: publications
-permalink: /publication/Addison_etal_2021.pdf
+permalink: /publication/Addison_etal_2021
 date: 2021-04-06
 venue: 'Journal of Geophysical Research (Space Physics)'
 link: 'http://lukeliuzzo.github.io/files/Addison_etal_2021.pdf'
