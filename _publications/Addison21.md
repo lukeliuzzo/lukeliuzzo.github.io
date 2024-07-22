@@ -3,7 +3,7 @@ title: "Influence of Europa’s time‐varying electromagnetic environment on ma
 collection: publications
 permalink: /files/Addison_etal_2021.pdf
 date: 2021-04-06
-venue: 'Journal of Geophysical Research: Space Physics'
+venue: 'Journal of Geophysical Research (Space Physics)'
 link: 'http://lukeliuzzo.github.io/files/Addison_etal_2021.pdf'
 xurl: 'http://doi.org/10.1029/2020JA029087'
 ---
