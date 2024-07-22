@@ -2,7 +2,7 @@
 title: "Solar energetic electron access to the Moon within the terrestrial magnetotail and shadowing by the lunar surface"
 collection: publications
 #permalink: /publication/Liuzzo24c
-permalink: /files/Liuzzo_etal_2024c.pdf
+permalink: /files/Liuzzo_etal_2024c
 #excerpt: ''
 date: 2024-08-01
 venue: 'Geophysical Research Letters'
