@@ -1,7 +1,7 @@
 ---
 title: "Effect of the magnetospheric plasma interaction and solar illumination on ion sputtering of Europa's surface ice"
 collection: publications
-permalink: /files/Addison_etal_2022.pdf
+permalink: /publication/Addison_etal_2022.pdf
 date: 2022-01-16
 venue: 'Journal of Geophysical Research (Space Physics)'
 link: 'http://lukeliuzzo.github.io/files/Addison_etal_2022.pdf'
