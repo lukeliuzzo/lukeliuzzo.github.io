@@ -2,10 +2,10 @@
 title: "Magnetic signatures of a plume at Europa during the Galileo E26 flyby"
 collection: publications
 permalink: /files/Arnold_etal_2019.pdf
-#excerpt: ''
 date: 2019-02-09
 venue: 'Geophysical Research Letters'
-#paperurl: 'http://lukeliuzzo.github.io/files/Arnold_etal_2019.pdf'
+link: 'http://lukeliuzzo.github.io/files/Arnold_etal_2019.pdf'
+xurl: 'http://doi.org/10.1029/2018GL081544'
 ---
 
 This study was published as a <i>Featured Article</i>.
