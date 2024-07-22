@@ -3,7 +3,7 @@ title: "Effect of the magnetospheric plasma interaction and solar illumination o
 collection: publications
 permalink: /files/Addison_etal_2022.pdf
 date: 2022-01-16
-venue: 'Journal of Geophysical Research: Space Physics'
+venue: 'Journal of Geophysical Research (Space Physics)'
 link: 'http://lukeliuzzo.github.io/files/Addison_etal_2022.pdf'
 xurl: 'http://doi.org/10.1029/2021JA030136'
 ---
