@@ -5,5 +5,5 @@ permalink: /publication/Liuzzo24c
 date: 2024-08-01
 venue: 'Geophysical Research Letters'
 link: 'http://lukeliuzzo.github.io/files/Liuzzo_etal_2024c.pdf'
-externalurl: 'http://doi.org/10.1029/2024GL110228'
+xurl: 'http://doi.org/10.1029/2024GL110228'
 ---
