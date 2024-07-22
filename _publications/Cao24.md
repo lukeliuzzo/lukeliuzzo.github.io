@@ -5,7 +5,7 @@ permalink: /publication/Cao24
 date: 2024-01-22
 venue: 'Frontiers in Astronomy and Space Science (Space Physics)'
 link: 'http://lukeliuzzo.github.io/files/Cao_etal_2024.pdf'
-xurl: 'http://doi.org/10.3389/fspas.2024.120370'
+xurl: 'http://doi.org/10.3389/fspas.2024.1203705'
 shortauthor: 'Cao et al.'
 ---
 
