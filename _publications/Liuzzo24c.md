@@ -6,4 +6,5 @@ date: 2024-08-01
 venue: 'Geophysical Research Letters'
 link: 'http://lukeliuzzo.github.io/files/Liuzzo_etal_2024c.pdf'
 xurl: 'http://doi.org/10.1029/2024GL110228'
+shortauthor: 'Liuzzo et al.'
 ---
