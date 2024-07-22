@@ -3,7 +3,7 @@ title: "Magnetic signatures of plasma interaction and induction: The Galileo C21
 collection: publications
 permalink: /publication/Liuzzo17
 date: 2017-07-17
-venue: 'Journal of Geophysical Research, Space Physics'
+venue: 'Journal of Geophysical Research (Space Physics)'
 link: 'http://lukeliuzzo.github.io/files/Liuzzo_etal_2017.pdf'
 xurl: 'http://doi.org/10.1002/2017JA024303'
 ---
