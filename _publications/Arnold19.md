@@ -6,6 +6,7 @@ date: 2019-02-09
 venue: 'Geophysical Research Letters'
 link: 'http://lukeliuzzo.github.io/files/Arnold_etal_2019.pdf'
 xurl: 'http://doi.org/10.1029/2018GL081544'
+shortauthor: 'Arnold et al.'
 ---
 
 This study was published as a <i>Featured Article</i>.
