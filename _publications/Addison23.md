@@ -1,7 +1,7 @@
 ---
 title: "Surface-plasma interactions at Europa in draped magnetospheric fields: The contribution of energetic electrons to energy deposition and sputtering"
 collection: publications
-permalink: /publication/Addison_etal_2023.pdf
+permalink: /publication/Addison_etal_2023
 date: 2023-08-16
 venue: 'Journal of Geophysical Research (Space Physics)'
 link: 'http://lukeliuzzo.github.io/files/Addison_etal_2023.pdf'
