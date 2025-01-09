@@ -1,5 +1,5 @@
 ---
-title: "CStronger evidence of a subsurface ocean within Callisto from a multifrequency investigation of its induced magnetic field"
+title: "Stronger evidence of a subsurface ocean within Callisto from a multifrequency investigation of its induced magnetic field"
 collection: publications
 permalink: /publication/Cochrane25
 date: 2025-01-08
