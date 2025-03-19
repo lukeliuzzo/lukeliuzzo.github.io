@@ -96,7 +96,8 @@ author:
   researchgate     :  "https://www.researchgate.net/profile/Lucas-Liuzzo"
   uri              :
   bitbucket        :
-  bsky             : "lukeliuzzo"
+  #bsky             : "lukeliuzzo"
+  bluesky          : "lukeliuzzo"
   codepen          :
   dribbble         :
   flickr           :
