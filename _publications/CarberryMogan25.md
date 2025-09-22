@@ -5,6 +5,6 @@ permalink: /publication/CarberryMogan25
 date: 2025-03-25
 venue: 'Planetary Science Journal'
 link: 'http://lukeliuzzo.github.io/files/CarberryMogan_etal_2025.pdf'
-xurl: ''
+xurl: 'http://doi.org/10.3847/PSJ/adc5eb'
 shortauthor: 'Carberry Mogan et al.'
 ---
