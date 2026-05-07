@@ -16,7 +16,8 @@ main:
   #  url: /year-archive/
     
   - title: "Curriculum Vitae"
-    url: /files/Liuzzo_CV.pdf
+    url: /cv/
+    #url: /files/Liuzzo_CV.pdf
     
   #- title: "Guide"
   #  url: /markdown/
