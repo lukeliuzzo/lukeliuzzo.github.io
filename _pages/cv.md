@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Please email me for a copy of my CV](mailto:liuzzo@berkeley.edu)
+Please email me for a copy of my most recent CV.
