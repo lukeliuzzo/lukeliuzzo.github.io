@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-I am currently an Assistant Research Scientist at the Space Sciences Laboratory at the University of California, Berkeley.
-
-[My most-recently updated CV can be found here](http://lukeliuzzo.github.io/files/Liuzzo_CV.pdf)
+[Please email me for a copy of my CV](mailto:liuzzo@berkeley.edu)
